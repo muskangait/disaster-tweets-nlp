@@ -1,4 +1,4 @@
-# Disaster Tweets — NLP Classification 🌪️
+# Disaster Tweets — NLP Classification 
 
 My first machine learning project. Built a complete NLP pipeline
 to classify tweets as disaster or not disaster.
